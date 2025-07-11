@@ -1,0 +1,50 @@
+[
+  {
+    "Class":"EndFittingType",
+    "Property Set":"OGSubPset_EndFittingTypeCommon",
+    "Parent Property":null,
+    "IFC Property Name":"HasModaSensor",
+    "Short Description":"Has Moda Sensor",
+    "Short Description BR":"Possui Sensor MODA",
+    "Long Description":"Indicates whether the item includes a MODA sensor (TRUE) or Not (FALSE).",
+    "Long Description BR":null,
+    "IFC property type":"IfcPropertySingleValue",
+    "Value Type":"IfcBoolean",
+    "Unit":null,
+    "Valid Values":null,
+    "Confidentiality":"Public",
+    "linha_id":2
+  },
+  {
+    "Class":"EndFittingType",
+    "Property Set":"OGSubPset_EndFittingTypeCommon",
+    "Parent Property":null,
+    "IFC Property Name":"HasN2InjectionPort",
+    "Short Description":"Has N2 Injection Port",
+    "Short Description BR":"Possui Porta de Inje\u00e7\u00e3o de Nitrog\u00eanio",
+    "Long Description":"Indicates whether the item includes a nitrogen (N2) injection port (TRUE) or Not (FALSE).",
+    "Long Description BR":null,
+    "IFC property type":"IfcPropertySingleValue",
+    "Value Type":"IfcBoolean",
+    "Unit":null,
+    "Valid Values":null,
+    "Confidentiality":"Public",
+    "linha_id":3
+  },
+  {
+    "Class":"EndFittingType",
+    "Property Set":"OGSubPset_EndFittingTypeCommon",
+    "Parent Property":null,
+    "IFC Property Name":"HasFaceORing",
+    "Short Description":"Has Face ORing",
+    "Short Description BR":"Possui ORing na Face",
+    "Long Description":"Indicates whether the item has a face oring (TRUE) or not (FALSE).",
+    "Long Description BR":null,
+    "IFC property type":"IfcPropertySingleValue",
+    "Value Type":"IfcBoolean",
+    "Unit":null,
+    "Valid Values":null,
+    "Confidentiality":"Public",
+    "linha_id":4
+  }
+]
