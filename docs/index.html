@@ -10,4 +10,19 @@
     <table id="planilha"></table>
     <script src="script.js"></script>
   </body>
+  <!-- Modal de Comentário -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <span id="close-modal" class="close">&times;</span>
+      <h2>Comentar - <span id="modal-ifc-name"></span></h2>
+
+      <label for="coluna">Coluna:</label>
+      <select id="coluna"></select>
+
+      <label for="comentario">Comentário:</label>
+      <textarea id="comentario" rows="4" style="width: 100%"></textarea>
+
+      <button id="btn-ok">OK</button>
+    </div>
+  </div>
 </html>
