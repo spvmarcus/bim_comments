@@ -15,7 +15,7 @@ fetch("data.json")
         .map((h) => `<td>${row[h]}</td>`)
         .join(
           ""
-        )}<td><a target="_blank" href="https://github.com/SEU_USUARIO/SEU_REPO/issues/new?title=[Feedback]%20Linha%20${linhaId}&labels=linha:${linhaId},planilha:template">Comentar</a></td></tr>`;
+        )}<td><a target="_blank" href="https://github.com/spvmarcus/bim_comments/issues/new?title=[Feedback]%20Linha%20${linhaId}&labels=linha:${linhaId},planilha:template">Comentar</a></td></tr>`;
       tabela.innerHTML += rowHtml;
     }
   });
